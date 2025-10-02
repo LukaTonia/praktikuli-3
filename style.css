@@ -1,0 +1,134 @@
+.main {
+  width: 100%;
+  height: 500px;
+  padding-top: 20px;
+}
+
+.title {
+  margin: 0;
+  color: black;
+  text-align: center;
+  font-size: 40px;
+  font-weight: 800;
+}
+.container1 {
+  float: left;
+  border: 4px black solid;
+  padding: 10px 10px 10px 10px;
+  margin-right: 20px;
+}
+
+.container2 {
+  float: left;
+  background-color: rgb(255, 173, 173);
+  border: 4px rgb(172, 93, 3) dashed;
+  padding: 10px 10px 10px 10px;
+  margin-right: 20px;
+}
+
+.container3 {
+  float: left;
+  border: 4px cyan dotted;
+  padding: 10px 10px 10px 10px;
+  margin-right: 20px;
+}
+
+.container4 {
+  float: left;
+  border: 4px cyan double;
+  padding: 10px 10px 10px 10px;
+  margin-right: 20px;
+}
+
+.container5 {
+  float: left;
+  border: 4px rgb(66, 0, 189) groove;
+  padding: 10px 10px 10px 10px;
+  margin-right: 20px;
+  margin-top: 20px;
+}
+
+.container6 {
+  margin-top: 20px;
+  float: left;
+  border: 4px black solid;
+  padding: 10px 10px 10px 10px;
+  margin-right: 20px;
+}
+.container7 {
+  margin-top: 20px;
+  float: left;
+  background-color: rgb(255, 173, 173);
+  border: 4px rgb(172, 93, 3) dashed;
+  padding: 10px 10px 10px 10px;
+  margin-right: 20px;
+}
+.container8 {
+  margin-top: 20px;
+  float: left;
+  border: 4px cyan dotted;
+  padding: 10px 10px 10px 10px;
+  margin-right: 20px;
+}
+.container9 {
+  margin-top: 20px;
+  float: left;
+  background-color: rgb(255, 173, 173);
+  border: 4px rgb(172, 93, 3) dashed;
+  padding: 10px 10px 10px 10px;
+  margin-right: 20px;
+}
+
+.container10 {
+  margin-top: 20px;
+  float: left;
+  border: 4px cyan dotted;
+  padding: 10px 10px 10px 10px;
+  margin-right: 20px;
+}
+
+.container11 {
+  margin-top: 20px;
+  float: left;
+  border: 4px cyan double;
+  padding: 10px 10px 10px 10px;
+  margin-right: 20px;
+}
+
+.container12 {
+  margin-top: 20px;
+  float: left;
+  border: 4px rgb(66, 0, 189) groove;
+  padding: 10px 10px 10px 10px;
+  margin-right: 20px;
+  margin-top: 20px;
+}
+.d1 {
+  width: 300px;
+  height: 200px;
+  background-image: url(https://images.unsplash.com/photo-1519677100203-a0e668c92439?q=80&w=1170&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D);
+  background-size: cover;
+}
+
+.d2 {
+  width: 300px;
+  height: 200px;
+  background-image: url(https://images.unsplash.com/photo-1519677100203-a0e668c92439?q=80&w=1170&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D);
+  background-size: cover;
+}
+.d6 {
+  width: 500px;
+  height: 200px;
+  background-image: url(https://images.unsplash.com/photo-1519677100203-a0e668c92439?q=80&w=1170&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D);
+  background-size: cover;
+}
+.d3 {
+  width: 400px;
+  height: 200px;
+  background-image: url(https://images.unsplash.com/photo-1519677100203-a0e668c92439?q=80&w=1170&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D);
+  background-size: cover;
+}
+
+h3 {
+  text-align: center;
+}
